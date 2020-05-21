@@ -27,7 +27,7 @@ Since the titles in the two DFs are slightly different in terms of punctuation a
 ### Storing:
 The cleaned dataset was stored in a csv file named **books_clean.csv**.
 ### Analyzing:
-4 questions were vizually answered using matplotlib and seaborn libraries:
+4 questions were vizually answered using Matplotlib and Seaborn libraries:
 - What are the most recommended books among the most recommended books?
 - What are the most frequent categories in our recommenders list?
 - What are the top 5 books in each category?
